@@ -1,5 +1,5 @@
-## Live Stream
-https://netflix-clone-reactjs-firebase.netlify.app/
+## Visualización
+https://netflix-clone-78aa8.firebaseapp.com/
 
 # Getting Started with Create React App
 
